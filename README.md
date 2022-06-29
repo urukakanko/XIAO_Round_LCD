@@ -63,6 +63,14 @@ M5Stamp とLCDの制御信号とのピン接続は以下となります。
 
 
 
+# 部品実装について
+
+部品の実装（ハンダ付け方法）などについては、以下資料をご確認ください
+
+https://github.com/urukakanko/XIAO_Round_LCD/blob/main/%E9%83%A8%E5%93%81%E5%AE%9F%E8%A3%85%E3%81%AE%E8%AA%AC%E6%98%8E.pdf
+
+
+
 # 使用するツールやライブラリ
 
 XIAO RP2040のArduinoやPythonの導入については以下をご確認ください
