@@ -90,16 +90,25 @@ https://github.com/lovyan03/LovyanGFX
 
 
 # サンプルソース
- 準備中
+
+LovyanGFXのスケッチの例より引用させて頂きました。
+
+サンプルその１
+
+https://github.com/urukakanko/XIAO_Round_LCD/tree/main/xiao2040_round_lcd_MeterSample
+
+
+サンプルその２
+
+https://github.com/urukakanko/XIAO_Round_LCD/tree/main/xiao2040_round_lcd_PartyParrot
 
 
 
+# 表示例
 
-# 使用例
+![](meter.jpg)
 
-準備中
-
-
+![](parrot.jpg)
 
 
 
