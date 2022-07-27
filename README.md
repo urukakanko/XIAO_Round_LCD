@@ -90,12 +90,6 @@ https://github.com/lovyan03/LovyanGFX
 
 
 
-# LCD表示動画
-
-準備中
-
-
-
 
 
 # 使用例
