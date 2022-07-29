@@ -1,4 +1,4 @@
-# ラウンド液晶モジュール for XIAO(現在準備中)
+# ラウンド液晶モジュール for XIAO RP2040
 
 ![](gaiken.jpg)
 
