@@ -111,6 +111,10 @@ https://github.com/urukakanko/XIAO_Round_LCD/tree/main/xiao2040_round_lcd_PartyP
 ![](parrot.jpg)
 
 
+# Shigezone様にて販売中です
+
+https://www.shigezone.com/product/roundlcd1_28/?fbclid=IwAR3sltDdaBDT0KiREBcUj3ycjUr6qAAMGzQqQChrtsmQ8KoZGPFba8SgSaQ
+
 
 
 # 製作者
