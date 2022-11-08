@@ -113,6 +113,17 @@ https://github.com/urukakanko/XIAO_Round_LCD/tree/main/xiao2040_round_lcd_PartyP
 
 
 
+# そーたメイ様のつくるっちに対応して頂きました
+
+ファームウェアは以下です
+
+https://github.com/sohtamei/TuKuRutch.ext/blob/master/libraries/lovyanGFXpico/src/src.ino.uf2
+
+ファームウェアを書込んでから、Cromeブラウザで以下にアクセスします　簡単なデモプログラムです「set config」ブロックにてROUNDXIAOを選択して下さい
+
+https://sohta02.sakura.ne.jp/tukurutch/#000000531
+
+
 # 表示例
 
 ![](meter.jpg)
