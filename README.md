@@ -112,6 +112,10 @@ https://github.com/urukakanko/XIAO_Round_LCD/tree/main/xiao2040_round_lcd_MeterS
 https://github.com/urukakanko/XIAO_Round_LCD/tree/main/xiao2040_round_lcd_PartyParrot
 
 
+サンプルその３
+
+https://github.com/urukakanko/XIAO_Round_LCD/tree/main/xiao2040_round_clockSample
+
 
 # そーたメイ様のつくるっちに対応して頂きました
 
